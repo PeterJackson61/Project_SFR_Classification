@@ -18,5 +18,6 @@
   + Can be applied to the process machine for avoiding failure from process.
  ### Data preprocessing
   + Remove duplicate, sorted by time, keeping the last value of barcode (the IDs of the modules)
+  + Fillna
  ### Model chosen
  * Support vector machine
